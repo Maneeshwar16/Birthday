@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">పుట్టినరోజు</string>
+    <string name="create_birthday_card">పుట్టినరోజు కార్డును సృష్టించండి</string>
+    <string name="enter_the_name">పేరును నమోదు చేయండి</string>
+    <string name="description">పుట్టినరోజు కార్డుతో మీ ప్రేమను వ్యక్తపరచండి!!</string>
+</resources>

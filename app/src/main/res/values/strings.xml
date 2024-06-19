@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Birthday</string>
+    <string name="create_birthday_card">Create Birthday Card</string>
+    <string name="enter_the_name">Enter the Name</string>
+    <string name="description">Express your love with a  birthday card!!</string>
+    <string name="buttontoast">"Hey $name You have clicked button"</string>
+</resources>
